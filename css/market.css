@@ -1,0 +1,25 @@
+ .line{
+    width: 100%;background-color: #e0e0e0;height: 1px;
+}
+ .footerBtn{
+     padding-top: 5px;
+     width: 25%;
+     text-align: center;
+     bottom: 0px;
+     position: fixed;
+     background-color: #dedede;
+     font-size: 10px;
+ }
+ .header {
+     height: 45px;
+     width: 100%;
+     background: #02bde5;
+     font-size: 20px;
+     font-family: '微软雅黑';
+     text-align: center;
+     background-size: 100% 45px;
+     color: #ffffff;
+     position: fixed;
+     top: 0px;
+     left: 0px;
+ }
